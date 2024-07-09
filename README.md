@@ -2,4 +2,5 @@
 # npm run dev for frontend
 # hb
 # npm run dev for frontend
-# n
+# backend npm run server
+# admin npm run dev
