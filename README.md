@@ -1,4 +1,4 @@
-# food_delivery
+# food_delivery application
 # npm run dev for frontend
 # hb
 # npm run dev for frontend
